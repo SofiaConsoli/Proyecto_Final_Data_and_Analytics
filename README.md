@@ -460,6 +460,8 @@ El dashboard se construyó en **Google Sheets** a partir del dataset final y se 
 
 **El negocio presenta un comportamiento muy estable.** Las diferencias observadas en los ingresos totales se explican por factores de volumen (número de días, de tiendas o de clientes de cada grupo) y no por un mejor rendimiento por pedido. Este resultado se obtuvo al normalizar los indicadores y se confirmó con los contrastes estadísticos.
 
+Aunque los datos son muy homogéneos, el análisis permitió identificar que las diferencias aparentes en los totales se deben a factores de volumen (días, tiendas y clientes de cada grupo) y no a diferencias reales de rendimiento, algo que habría pasado desapercibido comparando solo totales. Además, se detectaron problemas de calidad en los datos (fechas de alta no fiables y patrones propios de datos simulados), documentados en las limitaciones.
+
 | Pregunta | Respuesta |
 |---|---|
 | ¿Aumentaron las ventas en diciembre? | En totales sí (+3,96 %), pero por día solo un 0,61 %, sin diferencia significativa. El aumento se debe a que diciembre tiene un día más. |
