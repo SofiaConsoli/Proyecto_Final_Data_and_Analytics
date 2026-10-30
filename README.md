@@ -500,7 +500,7 @@ Aunque los datos son muy homogéneos, el análisis permitió identificar que las
 
 Las sugerencias y contribuciones son bienvenidas. Si quieres proponer una mejora, puedes abrir una *issue* o un *pull request* en este repositorio.
 
-## ✒️ 19. Autora y agradecimientos
+## ✒️ 19. Autoría y agradecimientos
 
 - Sofía Consoli – [@SofiaConsoli](https://github.com/SofiaConsoli)
 
